@@ -1,0 +1,110 @@
+body {
+  font-family: "Raleway", sans-serif;
+}
+
+/** colors**/
+.colorbox {
+  height: 140px;
+  width: 140px;
+  margin: 10px;
+  padding: 3px 3px;
+  display: inline-block;
+  font-weight: bold;
+}
+
+.black {
+  background-color: hsl(0, 0%, 6%);
+  color: hsl(0, 0%, 44%);
+}
+
+.white {
+  background-color: hsl(0, 0%, 96%);
+  color: hsl(0, 0%, 66%);
+}
+
+.grey {
+  background-color: hsl(0, 0%, 44%);
+  color: hsl(0, 0%, 6%);
+}
+
+.denim {
+  background-color: hsl(240, 36%, 23%);
+  color: hsl(240, 36%, 77%);
+}
+
+.lightblue {
+  background-color: hsl(234, 44%, 77%);
+  color: hsl(234, 44%, 30%);
+}
+
+.olive {
+  background-color: hsl(131, 13%, 17%);
+  color: hsl(131, 13%, 77%);
+}
+
+.beige {
+  background-color: hsl(44, 30%, 55%);
+}
+
+.orange {
+  background-color: hsl(27, 50%, 38%);
+}
+
+/** text**/
+
+.textbox {
+  display: inline-block;
+  margin: 10px;
+}
+
+.textbox li {
+  list-style: none;
+}
+
+.light {
+  font-weight: lighter;
+}
+
+.normal {
+}
+
+.bold {
+  font-weight: bolder;
+}
+
+.amatic {
+  font-family: "Raleway", sans-serif;
+}
+
+.roboto {
+  font-family: "Roboto Mono", monospace;
+}
+
+.hubballi {
+  font-family: "Hubballi", cursive;
+}
+
+/** text styles**/
+
+.stylebox {
+  display: inline-block;
+  margin: 10px;
+}
+
+h1 {
+  font-family: "Roboto Mono", monospace;
+  font-weight: 700;
+  font-size: 26px;
+}
+
+h2 {
+  font-family: "Raleway", sans-serif;
+  font-weight: 500px;
+  font-size: 16px;
+}
+
+p {
+  font-family: "Hubballi", cursive;
+  font-weight: 400px;
+  font-size: 14px;
+}
